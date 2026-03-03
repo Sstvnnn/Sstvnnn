@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0xeFytXm8O4wA1m8/giphy.gif" width="100%" alt="Take Your Heart Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=D92323&width=435&lines=%E2%99%A4+%E2%99%A1+%E2%99%A7+%E2%99%A2;TAKE;+YOUR;+HEART." width="100%" alt="Take Your Heart Banner">
   
   <br><br>
-
-  # 🃏 TAKE YOUR HEART.
-  ### *Wake Up, Get Up, Get Out There.*
+  
+  ### *Disturbing The Peace*
 
   <p>
-    <b>Steven</b> | <b>Codename: Dev</b><br>
-    <i>Stealing hearts and squashing bugs in the Metaverse.</i><br>
-    Computer Science @ BINUS University | Data Engineering & Backend Systems
+    <b>Steven Chowina</b> | <b>Tech Enthusiast & Software Developer</b><br>
+    <i>Computer Science Student @ BINUS University</i>
   </p>
 
   <a href="https://github.com/sstvnnn">
-    <img src="https://img.shields.io/badge/Phantom_Thief-sstvnnn-e60012?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/sstvnnn-e60012?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </div>
 
