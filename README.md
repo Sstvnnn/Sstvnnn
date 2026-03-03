@@ -1,40 +1,56 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D92323&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Steven;A+Software+Developer;Data+Engineering+Student" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/xT0xeFytXm8O4wA1m8/giphy.gif" width="100%" alt="Take Your Heart Banner">
+  
+  <br><br>
 
-  <p align="center">
-    🚀 Computer Science Student @ <b>BINUS University</b> <br>
-    Focusing on <b>Backend Systems</b>, <b>Microservices</b>, and <b>Data Engineering</b>.
+  # 🃏 TAKE YOUR HEART.
+  ### *Wake Up, Get Up, Get Out There.*
+
+  <p>
+    <b>Steven</b> | <b>Codename: Dev</b><br>
+    <i>Stealing hearts and squashing bugs in the Metaverse.</i><br>
+    Computer Science @ BINUS University | Data Engineering & Backend Systems
   </p>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/sstvnnn">
+    <img src="https://img.shields.io/badge/Phantom_Thief-sstvnnn-e60012?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </div>
 
 ---
 
-### 💫 About Me
-- 🎓 Currently pursuing Computer Science at **BINUS University** (Class of 2026).
-- 🛠️ Building **InternMatch AI** — a smart recommendation system for student internships.
-- 📊 Diving deep into **Data Engineering** and **Object-Oriented Analysis & Design**.
-- 🎵 When not coding, I'm probably experimenting with **lo-fi beats** in STRUDEL or crafting **natural soaps**.
+### 🩸 **[ COMMAND MENU ]**
 
-### 🛠️ Tech Stack
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) |
-| **Data & DB** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+> 🌟 **[ CO-OP ] (Social Link & Stats)**
+> * 🎓 Leveling up my **Knowledge** stat as a CS student.
+> * 💻 Currently infiltrating the **Data Engineering** and **Backend Architecture** Palaces.
+> * 🎵 Crafting lo-fi beats or making natural soap when not traversing the Metaverse.
 
-### 📊 My GitHub Stats
+> 🔪 **[ PERSONA COMPENDIUM ] (Tech Stack)**
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sstvnnn&theme=radical&hide_border=true" width="94%" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=e60012&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=e60012" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+  <br>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=e60012&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
-</p>
+<br>
+
+> 📈 **[ THIEF RECORD ] (GitHub Analytics)**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sstvnnn&show_icons=true&bg_color=000000&title_color=e60012&text_color=ffffff&icon_color=e60012&border_color=e60012&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sstvnnn&layout=compact&bg_color=000000&title_color=e60012&text_color=ffffff&border_color=e60012&hide_border=false" width="48%" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <i>"You'll never see it coming."</i>
+</div>
