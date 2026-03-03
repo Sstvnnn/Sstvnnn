@@ -32,20 +32,8 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sstvnnn&show_icons=true&theme=radical&hide_border=true" width="48%" alt="Steven's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sstvnnn&layout=compact&theme=radical&hide_border=true" width="45%" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sstvnnn&theme=radical&hide_border=true" width="94%" alt="GitHub Streak" />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
