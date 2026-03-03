@@ -32,8 +32,8 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sstvnnn&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sstvnnn&layout=compact&theme=radical&hide_border=true" width="45%" />
 </div>
 
 <p align="center">
