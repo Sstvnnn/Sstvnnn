@@ -10,7 +10,7 @@
   ### *Character Details*
 
   <p>
-    <b>Steven Chowina</b> | <i><b>Lv99</b></i> |<b>Tech Enthusiast & Software Developer</b><br>
+    <b>Sstvnnn</b> | <i><b>Lv99</b></i> |<b>Tech Enthusiast & Software Developer</b><br>
     <i>Computer Science Student @ <b>BINUS University</b></i>
   </p>
 
@@ -27,7 +27,7 @@
 
 ---
 
-###  **Steven's Persona**
+###  **Sstvnnn's Persona**
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Backend** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |
@@ -37,7 +37,7 @@
 
 <br>
 
-###  **Steven's Save**
+###  **Sstvnnn's Save**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sstvnnn&theme=radical&hide_border=true" width="94%" alt="GitHub Streak" />
