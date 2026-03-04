@@ -16,11 +16,11 @@
 
   <div>
     <a href="mailto:stevenchowina@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=000000" />
     </a>
   
   <a href="https://linkedin.com/in/steven-chowina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=000000" />
   </a>
   </div>
 </div>
@@ -53,11 +53,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sstvnnn&theme=radical&hide_border=true" width="94%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sstvnnn&theme=youtube-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&hide_current_streak=true" width="70%" alt="GitHub Streak" />
 </div>
 
 ---
 
+<br>
+
 <div align="center">
-  <i>"You'll never see it coming."</i>
+  <img src="https://raw.githubusercontent.com/Sstvnnn/Sstvnnn/main/assets/makoto-yuki-persona3.gif" width="40%" alt="Makoto Yuki Persona 3">
 </div>
+
+
