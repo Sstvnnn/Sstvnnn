@@ -7,25 +7,46 @@
   
   <br>
   
-  ### *Character Details*
+<div align="center">
 
-  <p>
-    <i><b>Sstvnnn</b></i> | <i><b>Lv20</b></i> | <i><b>Tech Enthusiast</i></b> & <b><i>Software Developer</i></b><br>
-    <i>Computer Science Student @ <b>BINUS University</b></i>
-  </p>
-
-  <div>
-    <a href="mailto:stevenchowina@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=000000" />
-    </a>
-  
-  <a href="https://linkedin.com/in/steven-chowina/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=000000" />
-  </a>
-  </div>
-</div>
+<br>
 
 ---
+
+### *Sstvnnn's Profile*
+
+<table>
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Sstvnnn/Sstvnnn/main/assets/yuki.gif"
+       width="140px"
+       alt="Makoto">
+</td>
+  
+<td align="center">
+
+<i><b>Sstvnnn</b></i> | <i><b>Lv20</b></i> | <i><b>Tech Enthusiast</b></i> & <b><i>Software Developer</i></b><br>
+<i>Computer Science Student @ <b>BINUS University</b></i>
+
+<a href="mailto:stevenchowina@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white&labelColor=000000" />
+</a>
+
+<a href="https://linkedin.com/in/steven-chowina/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=000000" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
 <div align="center">
   
 ###  **Sstvnnn's Persona**
@@ -44,7 +65,7 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -58,10 +79,9 @@
 
 ---
 
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sstvnnn/Sstvnnn/main/assets/makoto-yuki-persona3.gif" width="40%" alt="Makoto Yuki Persona 3">
+  <img src="https://raw.githubusercontent.com/Sstvnnn/Sstvnnn/output/github-snake-dark.svg"
+       alt="Snake Animation">
 </div>
 
-
+</div>
