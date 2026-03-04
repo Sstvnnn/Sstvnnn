@@ -13,6 +13,9 @@
 
 ---
 
+<br>
+
+
 ### *Sstvnnn's Profile*
 
 <table>
@@ -47,6 +50,9 @@
 
 ---
 
+<br>
+
+
 <div align="center">
   
 ###  **Sstvnnn's Persona**
@@ -65,7 +71,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
 
