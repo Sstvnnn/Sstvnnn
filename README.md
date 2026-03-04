@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sstvnnn/Sstvnnn/main/assets/PhantomThieves.png" width="80%" alt="Phantom Thieves">
 
-  <br>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=D92323&width=435&center=true&vCenter=true&lines=%E2%99%A4+%E2%99%A1+%E2%99%A7+%E2%99%A2;TAKE+YOUR+HEART" width="100%" alt="Take Your Heart Banner">
   
   <br>
@@ -52,7 +50,6 @@
 
 <br>
 
-
 <div align="center">
   
 ###  **Sstvnnn's Persona**
@@ -71,11 +68,8 @@
 
 </div>
 
-<br>
+<br> <br>
 
----
-
-<br>
 
 <div align="center">
 
@@ -93,5 +87,7 @@
   <img src="https://raw.githubusercontent.com/Sstvnnn/Sstvnnn/output/github-snake-dark.svg"
        alt="Snake Animation">
 </div>
+
+<br>
 
 </div>
