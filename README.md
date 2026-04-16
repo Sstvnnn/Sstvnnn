@@ -26,7 +26,7 @@
   
 <td align="center">
 
-<i><b>Sstvnnn</b></i> | <i><b>Lv20</b></i> | <i><b>Tech Enthusiast</b></i> & <b><i>Software Developer</i></b><br>
+<i><b>Steven Chowina</b></i> | <i><b>Lv20</b></i> | <i><b>Tech Enthusiast</b></i> & <b><i>Software Developer</i></b><br>
 <i>Computer Science Student @ <b>BINUS University</b></i>
 
 <a href="mailto:stevenchowina@gmail.com">
